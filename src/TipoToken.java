@@ -1,0 +1,3 @@
+public enum TipoToken {
+    IDENTIFICADOR, ENTERO, OPERADOR, WHITESPACE, UKNOWN
+}
